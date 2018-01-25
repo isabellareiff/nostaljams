@@ -1,6 +1,7 @@
 # nostaljams
 
-### nostaljams is a site that shuffles iconic music separated into categories of:  Disney, Theme songs, Emo #TBTs, R&B, Divas, and Legends Only. When you pick a category, it picks a (Math.)random song to play you through youtube, out of an array of ~20-40 choices. Aggressively click and shuffle your favorite genre, or  let the player run on its own and shuffle through everything.
+### nostaljams is a site that shuffles iconic music separated into categories of:  Disney, Theme songs, Emo #TBTs, R&B, Divas, and Legends Only.
+When you pick a category, it picks a (Math.)random song to play you through youtube, out of an array of ~20-40 choices. Aggressively click and shuffle your favorite genre, or  let the player run on its own and shuffle through everything.
 
 #### nostaljams currently includes categories of:
 - Disney (34 songs)
