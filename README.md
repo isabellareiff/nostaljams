@@ -15,11 +15,12 @@
 - Develop a chrome extension that plays a random or user given video/song/artist when you open a new tab.
 - Develop a Mac screensavor that plays a random or user given video/song/artist when it falls asleep.
 
-#### nostaljams is my personal take on various #tbt, nostalgia, and childhood playlists that have been floating around spotify for some time now. I made it for myself, because I wanted a fun consolidation of all these songs in one place that could live on the web, and I hadn't found anything that did this, had categories, and incorporated video.
+#### nostaljams is my personal take on various #tbt, nostalgia, and childhood playlists floating around the web.
+I made it for myself, because I wanted a fun consolidation of all these songs in one place that could live on the web, and I hadn't found anything that did this, had categories, and incorporated video.
 
-#### I hope someone else gets actual use from this, and I love category/video requests, but if you want the same concept with totally different videos (like funny videos, specific youtuber videos, whatever you want), feel free to fork this code and swap out the categories, videos, and stylings for your own preferences there.
+I really hope someone else gets actual use from this, and I love category/video requests, but if you want the same concept with totally different videos (like funny videos, specific youtuber videos, whatever you want), feel free to fork this code and swap out the categories, videos, and stylings for your own preferences there.
 
-#### Sadly, nostaljams doesn't currently work on mobile devices, as autoplay iframes don't work (as far as I know). If anyone has a workaround for this problem, or ideas on how I can beat this, please drop me a [line](https://twitter.com/izreiff) and let me know!
+Sadly, nostaljams doesn't currently work on mobile devices, as autoplay iframes don't work (as far as I know). If anyone has a workaround for this problem, or ideas on how I can beat this, please drop me a [line](https://twitter.com/izreiff) and let me know!
 
 #### To request a video or category to be added, either tweet me at [@izreiff](https://twitter.com/izreiff) or hit this repo with a Pull request. Please be nice, as I'm only myself, and I'll try to get everything done ASAP.
 
