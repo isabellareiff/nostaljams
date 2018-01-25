@@ -3,18 +3,15 @@
 ### nostaljams is a personal take on various #tbt, nostalgia, and childhood playlists that have been floating around spotify for some time now.
 
 #### nostaljams currently includes categories of:
-- Disney
-- Theme Songs
-- Emo #TBTs
-- R&B
-- Divas
-- Legends Only
+- Disney (34 songs)
+- Theme Songs (in progress)
+- Emo #TBTs (in progress)
+- R&B (in progress)
+- Divas (in progress)
+- Legends Only (in progress)
 
-I hope to fully implement all categories by late Feb., meaning at least 15-20 (later 30+) videos for each team.
+Goal: Implement all categories by Valentine's Day, meaning at least 20 (later 30+) videos for each team.
 
-Goal: have 15 song videos by Feb 5th, and 30 by the end of Feb.
-
-Goal: have 10 laugh videos by Feb 5th, and 20 by the end of Feb.
 
 
 
