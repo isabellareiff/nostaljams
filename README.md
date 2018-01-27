@@ -25,4 +25,4 @@ Sadly, nostaljams doesn't currently work on mobile devices, as autoplay iframes 
 
 #### To request a video or category to be added, either tweet me at [@izreiff](https://twitter.com/izreiff) or hit this repo with a Pull request. Please be nice, as I'm only myself, and I'll try to get everything done ASAP.
 
-##### Special thanks to [Tim Holman](http://tholman.com/) for [this](https://codepen.io/tholman/full/jWmZxZ/) cursor effect on the challenge pages, [Brad Traversy](http://traversymedia.com/) for [this](https://www.youtube.com/watch?v=oRmQN244Ir0) video, and to [Dudley Storey](http://thenewcode.com/) for [this](https://codepen.io/dudleystorey/pen/PZyMrd) codepen. They're all amazing and make terrific content that everyone can (and should) learn from :)
+##### Special thanks to [Tim Holman](http://tholman.com/) for [this](https://codepen.io/tholman/full/jWmZxZ/) cursor effect and [Dudley Storey](http://thenewcode.com/) for [this](https://codepen.io/dudleystorey/pen/PZyMrd) codepen. They're amazing and make terrific content that everyone can (and should) learn from :)
