@@ -38,16 +38,16 @@ var disney = [
 ]
 ////////// Youtube embed codes for theme songs used in an array ////////////
 var themes = [
-"x-AUCEE5AsY", // 1 Sesame street
+  "x-AUCEE5AsY", // 1 Sesame street
   "HAXq0LHNvqo", // 2 Thundercats
   "DmOzHNgSw6Q", // 3 Power rangers
   "bojx9BDpJks", // 4 Teenage mutant ninja turtles
   "e-JHfXVlkik", // 5 Inspector gadget
   "CMU2NwaaXEA", // 6 Duck tales
   "FIA9yoDfCTs", // 7 Sabrina the teenage witch
-  "", // 8 Magic Schoolbus
-  "", // 9 Rugrats
-  "" // 10 Full house
+//   "", // 8 Magic Schoolbus
+//   "", // 9 Rugrats
+//   "" // 10 Full house
   // "", // 11 The Simpsons
   // "", // 12 Fresh prince of bel air
   // "", // 13 The jetsons
