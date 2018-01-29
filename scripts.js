@@ -94,37 +94,44 @@ var themes = [
 ]
 ///////// Youtube embed codes for Emo #tbts ///////
 var emo = [
-  // "", // 1 
-  // "", // 2 
-  // "", // 3 
-  // "", // 4 
-  // "", // 5 
-  // "", // 6 
-  // "", // 7 
-  // "", // 8 
-  // "", // 9 
-  // "", // 10 
-  // "", // 11 
-  // "", // 12 
-  // "", // 13 
-  // "", // 14 
-  // "", // 14 
-  // "", // 15 
-  // "", // 16 
-  // "", // 17 
-  // "", // 18 
-  // "", // 19 
-  // "", // 20 
-  // "", // 21
-  // "", // 22
-  // "", // 23
-  // "", // 24
-  // "", // 25
-  // "", // 26
-  // "", // 27
-  // "", // 28
-  // "", // 29
-  // "", // 30
+  "zN7o_fA9YrI", // 1 misery business
+  // "", // 2 i miss you
+  // "", // 3 check yes, juliet
+  // "", // 4 i write sins
+  // "", // 5 only one
+  // "", // 6 the great escape
+  // "", // 7 woah oh!
+  // "", // 8 1985
+  // "", // 9 story of a girl
+  // "", // 10 welcome to the black parade
+  // "", // 11 that's what you get
+  // "", // 12 ain't it fun
+  // "", // 13 still into you
+  // "", // 14 swing swing
+  // "", // 14 dirty little secret
+  // "", // 15 gives you hell
+  // "", // 16 all the small things
+  // "", // 17 mr. brightside
+  // "", // 18 DONTRUSTME
+  // "", // 19 somebody told me
+  // "", // 20 teenagers
+  // "", // 21 Lying is the most fun a girl can have without taking her pants off
+  // "", // 22 sugar we're goin' down
+  // "", // 23 dance dance
+  // "", // 24 thnks fr th mmrs
+  // "", // 25 two is better than one
+  // "", // 26 ocean avenue
+  "YoFnp10hBqc", // 27 dear maria count me in
+  // "", // 28 i'm not okay
+  // "", // 29 but it's better if you do
+  // "", // 30 helena
+  // "", // 31 in too deep
+  // "", // 32 sk8er boy
+  // "", // 33 teenage dirtbag
+  // "", // 34 love like woe
+  // "", // 35 just the girl
+  // "", // 36 evanescence
+  // "", // 37 burn it down
 ]
 ///////// Youtube embed codes for R&B ///////
 var randb = [
