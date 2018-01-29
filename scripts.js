@@ -45,9 +45,9 @@ var themes = [
   "e-JHfXVlkik", // 5 Inspector gadget
   "CMU2NwaaXEA", // 6 Duck tales
   "FIA9yoDfCTs", // 7 Sabrina the teenage witch
-//   "", // 8 Magic Schoolbus
-//   "", // 9 Rugrats
-//   "" // 10 Full house
+  "1CYIlaOo3JI", // 8 Magic Schoolbus
+  // "", // 9 Rugrats
+  // "" // 10 Full house
   // "", // 11 The Simpsons
   // "", // 12 Fresh prince of bel air
   // "", // 13 The jetsons
@@ -55,7 +55,7 @@ var themes = [
   // "", // 14 The A Team
   // "", // 15 The Twilight Zone
   // "", // 16 Garfield
-  // "", // 17 Dragon Tales
+  "xUfxnDAAxHI", // 17 Dragon Tales
   // "", // 18 Fairly Odd Parents
   // "", // 19 Hannah Montana
   // "", // 20 Wizards of waverly place
@@ -65,7 +65,6 @@ var themes = [
   // "", // 24 Scooby doo
   // "", // 25 Hey Arnold
   // "", // 26 Dexter's Lab
-  // "", // 27 Power puff girls
   // "", // 28 Family matters
   // "", // 29 Spongebob
   // "", // 30 Catdog
@@ -74,12 +73,24 @@ var themes = [
   // "", // ghostbusters
   // "", // pink panther
   "SXZddpxagPg", // teen titans
-  // "", // kim possible
-  // "", // that's so raven
-  // "g00viskJPVM", // teletubbies
+  "I43SMbqOMmY", // kim possible
+  "j21f7aeTrbc", // winnie the pooh
+  "XEEl4dobQ94", // that's so raven
+  "TIIWPACxHDU", // teletubbies
+  "LzqZsXWW6JM", // little einsteins
   "oJKpcfm1qD4", // berenstein bears
-  // "", // caiou
   "A3ULIbUkJkg", // lazy town
+  "cUTVrpx5sZw", // clifford the big red dog
+  "nlqyE-lWqCE", // franklin
+  "jawnyJwlMu8", // Caillou
+  "Uq734_nZ7Eo", // Barney
+  "ZjHYv9NVRYQ", // the wiggles
+  "8Zg8Mqip6TM", // thomas and friends
+  "sj2XOhC1YlM", // Madeline
+  "34iAB-aaHcQ", // Blues clues
+  "-P2-Nmk1uFQ", // bob the builder
+  // "", // suite life
+  // "", // phineas and ferb
 ]
 ///////// Youtube embed codes for Emo #tbts ///////
 var emo = [
