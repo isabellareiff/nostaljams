@@ -38,37 +38,48 @@ var disney = [
 ]
 ////////// Youtube embed codes for theme songs used in an array ////////////
 var themes = [
-  "", // 1 
-  "", // 2 
-  "", // 3 
-  "", // 4 
-  "", // 5 
-  "", // 6 
-  "", // 7 
-  "", // 8 
-  "", // 9 
-  "", // 10 
-  // "", // 11 
-  // "", // 12 
-  // "", // 13 
-  // "", // 14 
-  // "", // 14 
-  // "", // 15 
-  // "", // 16 
-  // "", // 17 
-  // "", // 18 
-  // "", // 19 
-  // "", // 20 
-  // "", // 21
-  // "", // 22
-  // "", // 23
-  // "", // 24
-  // "", // 25
-  // "", // 26
-  // "", // 27
-  // "", // 28
-  // "", // 29
-  // "", // 30
+"x-AUCEE5AsY", // 1 Sesame street
+  "HAXq0LHNvqo", // 2 Thundercats
+  "DmOzHNgSw6Q", // 3 Power rangers
+  "bojx9BDpJks", // 4 Teenage mutant ninja turtles
+  "e-JHfXVlkik", // 5 Inspector gadget
+  "CMU2NwaaXEA", // 6 Duck tales
+  "FIA9yoDfCTs", // 7 Sabrina the teenage witch
+  "", // 8 Magic Schoolbus
+  "", // 9 Rugrats
+  "" // 10 Full house
+  // "", // 11 The Simpsons
+  // "", // 12 Fresh prince of bel air
+  // "", // 13 The jetsons
+  // "", // 14 The Flintstones
+  // "", // 14 The A Team
+  // "", // 15 The Twilight Zone
+  // "", // 16 Garfield
+  // "", // 17 Dragon Tales
+  // "", // 18 Fairly Odd Parents
+  // "", // 19 Hannah Montana
+  // "", // 20 Wizards of waverly place
+  // "", // 21 iCarly
+  // "", // 22 Drake and Josh
+  // "", // 23 Victorious
+  // "", // 24 Scooby doo
+  // "", // 25 Hey Arnold
+  // "", // 26 Dexter's Lab
+  // "", // 27 Power puff girls
+  // "", // 28 Family matters
+  // "", // 29 Spongebob
+  // "", // 30 Catdog
+  "7zkX6kfnWbk", // Arthur
+  // "", // fetch with ruff ruffman
+  // "", // ghostbusters
+  // "", // pink panther
+  "SXZddpxagPg", // teen titans
+  // "", // kim possible
+  // "", // that's so raven
+  // "g00viskJPVM", // teletubbies
+  "oJKpcfm1qD4", // berenstein bears
+  // "", // caiou
+  "A3ULIbUkJkg", // lazy town
 ]
 ///////// Youtube embed codes for Emo #tbts ///////
 var emo = [
